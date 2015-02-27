@@ -1,0 +1,18 @@
+Programa realizado utilizando JAVA 8 update 31
+
+
+** Para compilar y ejecutar el programa java en forma automatica en Windows:
+
+	1_->Validar que tenemos instalado Java JDK ultima version sino descargar de http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
+	2_->Validad que tenemos seteado correctamente la variable de entorno JAVA_HOME (https://docs.oracle.com/cd/E19182-01/821-0916/inst_cli_jdk_javahome_t/index.html)
+	3_->Ubicarse en el directorio de nuestro repositorio (Ejemplo: %PATHTOMYREPO%\GitHub\tstmelijpm)
+	4_->Ejecutar "compile_and_execute_progtestMeli.bat"
+
+
+** Para ejecutar el programa java en cualquier sitema operativo:
+
+	1_->Validar que tenemos instalado Java JDK ultima version sino descargar de http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
+	2_->Validad que tenemos seteado correctamente la variable de entorno JAVA_HOME (https://docs.oracle.com/cd/E19182-01/821-0916/inst_cli_jdk_javahome_t/index.html)
+	3_->Abrir linea de comando y ubicarse en el directorio de nuestro repositorio (Ejemplo: %PATHTOMYREPO%\GitHub\tstmelijpm)
+		a_->Para compilar ejecutar: javac ProgtestMELI.java
+		b_->Para ejecutar nuestro programa ejecutar: java ProgtestMELI
